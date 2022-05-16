@@ -1,0 +1,11 @@
+C:\Users\moniq\OneDrive\Área de Trabalho\Desenvolvimento de aplicações DESKTOP\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.AssemblyReference.cache
+C:\Users\moniq\OneDrive\Área de Trabalho\Desenvolvimento de aplicações DESKTOP\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.SuggestedBindingRedirects.cache
+C:\Users\moniq\OneDrive\Área de Trabalho\Desenvolvimento de aplicações DESKTOP\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Form1.resources
+C:\Users\moniq\OneDrive\Área de Trabalho\Desenvolvimento de aplicações DESKTOP\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+C:\Users\moniq\OneDrive\Área de Trabalho\Desenvolvimento de aplicações DESKTOP\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.cache
+C:\Users\moniq\OneDrive\Área de Trabalho\Desenvolvimento de aplicações DESKTOP\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\moniq\OneDrive\Área de Trabalho\Desenvolvimento de aplicações DESKTOP\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+C:\Users\moniq\OneDrive\Área de Trabalho\Desenvolvimento de aplicações DESKTOP\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe
+C:\Users\moniq\OneDrive\Área de Trabalho\Desenvolvimento de aplicações DESKTOP\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+C:\Users\moniq\OneDrive\Área de Trabalho\Desenvolvimento de aplicações DESKTOP\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+C:\Users\moniq\OneDrive\Área de Trabalho\Desenvolvimento de aplicações DESKTOP\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
